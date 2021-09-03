@@ -13,49 +13,49 @@ A simple and complete GUI version AI based Chess Game.
 |<img src="./img/chess1.png" width="200">|<img src="./img/chess2.png" width="200">|
 
 ### Directory Structure :
-    |-- index.html
-    |-- style.css
-    |-- script.js
-    |-- lib
-    |   |-- chessboardjs
-    |   |   |-- css
-    |   |   |   |-- chessboard-0.3.0.css
-    |   |   |   |-- chessboard-0.3.0.min.css
-    |   |   |-- js
-    |   |       |-- chess.js
-    |   |       |-- chessboard-0.3.0.js
-    |   |       |-- chessboard-0.3.0.min.js
-    |   |-- jquery
-    |   |   |-- jquery-3.2.1.min.js
-    |   |
-    |   |-- js
-    |       |-- chess.js
-    |          
-    |-- QuizGame-Java.iml
-    |-- quiz_data.json
-    |
-    |-- img
-    |   |-- chesspieces
-    |   |   |-- wikipedia
-    |   |       |--bB.png
-    |   |       |--bK.png
-    |   |       |--bN.png
-    |   |       |--bP.png
-    |   |       |--bQ.png
-    |   |       |--bR.png
-    |   |       |--wB.png
-    |   |       |--wK.png
-    |   |       |--wN.png
-    |   |       |--wP.png
-    |   |       |--wQ.png
-    |   |       |--wR.png
-
-    |   |-- vscode.png
-    |   |-- javascript.svg
-    |   |-- chess1.png
-    |   |-- chess2.png
-    |
-    |-- README.md
+    AI_ChessGame-JavaScript
+        |-- index.html
+        |-- style.css
+        |-- script.js
+        |-- lib
+        |   |-- chessboardjs
+        |   |   |-- css
+        |   |   |   |-- chessboard-0.3.0.css
+        |   |   |   |-- chessboard-0.3.0.min.css
+        |   |   |-- js
+        |   |       |-- chess.js
+        |   |       |-- chessboard-0.3.0.js
+        |   |       |-- chessboard-0.3.0.min.js
+        |   |-- jquery
+        |   |   |-- jquery-3.2.1.min.js
+        |   |
+        |   |-- js
+        |       |-- chess.js
+        |          
+        |-- QuizGame-Java.iml
+        |-- quiz_data.json
+        |
+        |-- img
+        |   |-- chesspieces
+        |   |   |-- wikipedia
+        |   |       |--bB.png
+        |   |       |--bK.png
+        |   |       |--bN.png
+        |   |       |--bP.png
+        |   |       |--bQ.png
+        |   |       |--bR.png
+        |   |       |--wB.png
+        |   |       |--wK.png
+        |   |       |--wN.png
+        |   |       |--wP.png
+        |   |       |--wQ.png
+        |   |       |--wR.png
+        |   |-- vscode.png
+        |   |-- javascript.svg
+        |   |-- chess1.png
+        |   |-- chess2.png
+        |
+        |-- README.md
 
 ## Connect with me:  
 <a href="https://grabify.link/34LU2G" target="_blank">
